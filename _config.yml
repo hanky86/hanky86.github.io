@@ -1,0 +1,12 @@
+# Site settings
+title: Hanky's Blog
+email: hanky0721@gmail.com
+description: "This is Hanky"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: hanky86
+github_username:  hanky86
+
+# Build settings
+markdown: kramdown
+permalink: pretty
